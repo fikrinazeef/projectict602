@@ -47,7 +47,7 @@ public class AdminView extends AppCompatActivity implements View.OnClickListener
     public static final String TAG_TIME = "time";
     public static final String TAG_LAT = "lat";
     public static final String TAG_LNG = "lng";
-    public static final String URL_GET_ALL = "https://projectict600.000webhostapp.com/information/viewall.php";
+    public static final String URL_GET_ALL = "https://projectict600.000webhostapp.com/information/viewall.php"; //link webhost
     public static final String URL_DELETE = "https://projectict600.000webhostapp.com/information/delete.php";
 
     private String id;
