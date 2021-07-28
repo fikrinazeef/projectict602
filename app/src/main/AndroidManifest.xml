@@ -17,7 +17,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProjectIct602">
         <activity android:name=".Profile"></activity>
-        <activity android:name=".AdminMenu" />
+        <activity android:name=".AdminMenu"/>
         <activity android:name=".AdminView" />
         <activity android:name=".MainActivity" />
         <activity android:name=".Administrator" />
